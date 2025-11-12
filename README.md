@@ -1,9 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/53301873-efcf-4b54-8fcc-7e8195c74ff5
-
+URL : https://portfolio-vinayk.vercel.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
