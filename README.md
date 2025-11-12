@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Personal_Portfolio project
 
 ## Project info
 URL : https://portfolio-vinayk.vercel.app/
