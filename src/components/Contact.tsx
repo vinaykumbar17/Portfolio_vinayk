@@ -27,7 +27,9 @@ const Contact = () => {
           from_name: formData.name,
           from_email: formData.email,
           message: formData.message,
+          sent_time: new Date().toLocaleString(),   // 🕒 Add this line
         },
+
         "IEFPbotDEhKuP_ojk"
       );
 
